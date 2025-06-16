@@ -24,3 +24,6 @@ A sleek and responsive **virtual assistant** built with **ReactJS**. Supports re
 | Voice Input | Web Speech API     |
 | Styling     | TailwindCSS / CSS  |
 
+## Deploy
+
+https://karunavirtualassistant.netlify.app/
